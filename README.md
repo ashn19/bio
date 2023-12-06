@@ -2,7 +2,7 @@
 
 
 
-## I'm an undergraduate from VIT Chennai, Data Analyst and Machine learning entusiast!!
+## I'm an undergraduate from VIT Chennai, Data Analyst and Machine learning enthusiast!!
 
 
 - 👯 I’m a Self-thought Python developer interested in Machine Learning Techniques,Data science and Artificial Intelligence.
