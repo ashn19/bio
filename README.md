@@ -6,7 +6,7 @@
 
 
 - 👯 I’m a Self-thought Python developer interested in Machine Learning Techniques,Data science and Artificial Intelligence.
-- 🌱 I’m currently Python and SQL for implementing Big data analysis and various machine learning techniques.
+- 🌱 I’m currently studying Python and SQL for implementing Big data analysis and various machine learning techniques.
 - 🥅 Goals: To become confident in my skills
 - ⚡ Future Goals: To learn and grow every second!!
 
@@ -19,7 +19,7 @@
 <br />
 
 
-### 📕 Latest Projects
+### 📕 Academic Projects
  - ## FIRE ALARM SYSTEM
   
  - ## COVID 19 VIRTUAL TISSUE MODEL
