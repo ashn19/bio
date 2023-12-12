@@ -38,7 +38,7 @@
 
 ---
 
-[website]: https://bit.ly/ASHPROJECTS
+[website]: https://bit.ly/ASH_CERTIFICATIONS
 [linkedin]:https://www.linkedin.com/in/ashithnirmal/
 [gmail]: mailto:ashithnirmal24@gamil.com
 [instagram]: https://instagram.com/ash_n19?igshid=NzZlODBkYWE4Ng==
