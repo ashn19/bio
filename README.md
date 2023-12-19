@@ -20,24 +20,22 @@
 
 
 ### 📕 Academic Projects
- - ## FIRE ALARM SYSTEM
+ - ## FIRE ALARM SYSTEM 
   
- - ## COVID 19 VIRTUAL TISSUE MODEL
+ - ## [Covid-19 Virtual Tissue Model](https://github.com/ashn19/COVID-19-VIRTUAL-TISSUE-MODEL.git)
    
- - ## SONG RECOMMENDATION SYSTEM
+ - ## [SPEECH RECOGNITION] (https://github.com/ashn19/SPEECH-RECOGNITION.git) 
    
- - ## SPEECH RECOGNITION
+ - ## [IPL MATCH SCORE AND WINNER PREDICTION](https://github.com/ashn19/IPL-MATCH-SCORE-PREDICTION.git)
    
- - ## IPL MATCH SCORE AND WINNER PREDICTION
-   
- - ## PADDY VARIETY CLASSIFICATION
+ - ## [PADDY VARIETY CLASSIFICATION](https://github.com/ashn19/PADDY-VARIETY-CLASSIFICATION.git)
 
 
 
 
 
 ---
-
+[covid19] : https://github.com/ashn19/COVID-19-VIRTUAL-TISSUE-MODEL.git
 [website]: https://bit.ly/ASH_CERTIFICATIONS
 [linkedin]:https://www.linkedin.com/in/ashithnirmal/
 [gmail]: mailto:ashithnirmal24@gamil.com
