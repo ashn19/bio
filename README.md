@@ -24,7 +24,7 @@
   
  - ## [Covid-19 Virtual Tissue Model](https://github.com/ashn19/COVID-19-VIRTUAL-TISSUE-MODEL.git)
    
- - ## [SPEECH RECOGNITION] (https://github.com/ashn19/SPEECH-RECOGNITION.git) 
+ - ## [SPEECH RECOGNITION](https://github.com/ashn19/SPEECH-RECOGNITION.git) 
    
  - ## [IPL MATCH SCORE AND WINNER PREDICTION](https://github.com/ashn19/IPL-MATCH-SCORE-PREDICTION.git)
    
