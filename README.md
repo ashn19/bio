@@ -20,7 +20,7 @@
 
 
 ### 📕 Academic Projects
- - ## FIRE ALARM SYSTEM 
+ - ## [FIRE ALARM SYSTEM](https://github.com/ashn19/FIRE-ALARM-SYSTEM.git)
   
  - ## [Covid-19 Virtual Tissue Model](https://github.com/ashn19/COVID-19-VIRTUAL-TISSUE-MODEL.git)
    
