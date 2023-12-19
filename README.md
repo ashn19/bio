@@ -33,9 +33,8 @@
 
 
 
+--- 
 
----
-[covid19] : https://github.com/ashn19/COVID-19-VIRTUAL-TISSUE-MODEL.git
 [website]: https://bit.ly/ASH_CERTIFICATIONS
 [linkedin]:https://www.linkedin.com/in/ashithnirmal/
 [gmail]: mailto:ashithnirmal24@gamil.com
